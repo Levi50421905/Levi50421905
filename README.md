@@ -1,4 +1,4 @@
-## Hi there 👋
+## Maap aku pemula...
 
 <!--
 **Levi50421905/Levi50421905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
