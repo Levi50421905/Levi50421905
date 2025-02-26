@@ -1,4 +1,4 @@
-<p align="left">Maap aku pemula ._;</p>
+<p align="center">Maap aku pemula ._.</p>
 
 ###
 
