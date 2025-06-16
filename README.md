@@ -1,5 +1,12 @@
 <h2 align="center">Maap aku pemula ._.</h2>
 
+<h2 align="center">Badge</h2>
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=HackerRank)](https://www.hackerrank.com/MuhammadAlfarezziFallevi)
+
+
+</div>
+
+
 ###
 
 <div align="center">
