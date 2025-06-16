@@ -1,11 +1,12 @@
 <h2 align="center">Maap aku pemula ._.</h2>
 
 <h2 align="center">Badge</h2>
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=HackerRank)](https://www.hackerrank.com/levialfarezziar)
 
-
-</div>
-
+<p align="center">
+  <a href="https://www.hackerrank.com/levialfarezziar">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?logo=HackerRank" alt="HackerRank Badge"/>
+  </a>
+</p>
 
 ###
 
@@ -32,7 +33,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Levi50421905&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levi50421905&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 
 ###
 
