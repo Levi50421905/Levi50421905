@@ -59,8 +59,12 @@ const levi = {
 ### 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Levi50421905&theme=tokyonight" height="200" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levi50421905&theme=tokyonight" height="200" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Levi50421905&theme=tokyonight" height="180" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Levi50421905&theme=tokyonight" height="180" alt="Most Commit Language" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levi50421905&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&card_width=600&include_all_commits=true" height="220" alt="All Languages" />
 </div>
 
 ---
