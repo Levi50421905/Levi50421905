@@ -56,13 +56,18 @@ const levi = {
 
 </div>
 
+### 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levi50421905&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" height="200" alt="Top Languages" />
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Levi50421905&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levi50421905&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=450" height="200" alt="Top Languages" />
 </div>
 
 <div align="center">
