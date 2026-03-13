@@ -1,18 +1,18 @@
 <div align="center">
 
 ```
-██╗     ███████╗██╗   ██╗██╗
-██║     ██╔════╝██║   ██║██║
-██║     █████╗  ██║   ██║██║
-██║     ██╔══╝  ╚██╗ ██╔╝██║
-███████╗███████╗ ╚████╔╝ ██║
-╚══════╝╚══════╝  ╚═══╝  ╚═╝
+██╗     ███████╗██╗   ██╗██╗     █████╗ ██████╗ 
+██║     ██╔════╝██║   ██║██║    ██╔══██╗██╔══██╗
+██║     █████╗  ██║   ██║██║    ███████║██████╔╝
+██║     ██╔══╝  ╚██╗ ██╔╝██║    ██╔══██║██╔══██╗
+███████╗███████╗ ╚████╔╝ ██║    ██║  ██║██║  ██║
+╚══════╝╚══════╝  ╚═══╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 ### 👋 Hey there! I'm **Levi Alfarezzi**
 #### 🌱 A passionate beginner developer on a learning journey
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Learning+every+single+day+%F0%9F%93%9A;Building+cool+things+with+code+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js+%7C+Python;Always+open+to+collaborate!+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Learning+every+single+day+%F0%9F%93%9A;Building+cool+things+with+code+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js+%7C+Python;SQL+%7C+PostgreSQL+%7C+TypeScript;Always+open+to+collaborate!+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
 
@@ -25,9 +25,10 @@ const levi = {
   status:     "🌱 Still learning, always growing",
   location:   "🇮🇩 Indonesia",
   passion:    "Turning ideas into reality through code",
-  learning:   ["React", "Node.js", "PostgreSQL", "TypeScript"],
+  learning:   ["React", "Node.js", "PostgreSQL", "TypeScript", "SQL"],
   funFact:    "Saya pemula, tapi semangat saya bukan pemula! 💪",
-  goal:       "To become a full-stack developer"
+  goal:       "To become a full-stack developer",
+  database:   "PostgreSQL lover 🐘"
 };
 ```
 
@@ -44,6 +45,8 @@ const levi = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -53,8 +56,28 @@ const levi = {
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
+
+---
+
+## 💾 SQL & Database Skills
+
+```sql
+-- A little about me in SQL 😄
+SELECT 
+  'Levi Alfarezzi'     AS name,
+  'Indonesia 🇮🇩'      AS location,
+  'Full-Stack Dev'     AS goal,
+  'PostgreSQL'         AS favorite_db,
+  TRUE                 AS open_to_collaborate
+FROM developers
+WHERE passion = 'high'
+  AND still_learning = TRUE;
+```
+
+---
 
 ### 📊 Most Used Languages
 
@@ -64,7 +87,7 @@ const levi = {
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levi50421905&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&card_width=600&include_all_commits=true" height="220" alt="All Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Levi50421905&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&card_width=600&include_all_commits=true&count_private=true" height="220" alt="All Languages" />
 </div>
 
 ---
